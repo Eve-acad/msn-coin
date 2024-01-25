@@ -20,7 +20,7 @@
                         <li><a href="#">Birdeye</a></li>
                         <li><a href="#">SolScan</a></li>
                         <li><a href="#">Rugcheck</a></li>
-                        <li><a href="#">Help</a></li>
+                        <li><a href="https://t.me/msntwo">Help</a></li>
                     </ul>
                 </center>
             </div>
@@ -44,7 +44,7 @@
                     <option value="busy">Busy</option>
                 </select>
                 <a
-                    href="https://raydium.io/swap/?inputCurrency=J6ppE6LY3x5WUTZBKHNcR8oftbGd1it6WiU7qrrgUtvb&outputCurrency=sol&inputAmount=85.430334046&fixed=in"><button
+                    href=""><button
                         type="submit">Sign In</button></a>
             </div>
             <div class="msn-messenger-footer">

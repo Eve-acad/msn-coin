@@ -9,7 +9,7 @@
     <div class="chat">
       <div class="hide-scrollbar"></div>
       <div class="name">Megan</div>
-      <div class="status">ready for the weekend | megan01@hotmail.com</div>
+      <div class="status">ready for jeeting | jeeter4life@hotmail.com</div>
       <div class="is-writting">
         Last message received at 5:27 PM on 12/04/2007
       </div>
