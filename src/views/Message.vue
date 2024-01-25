@@ -212,8 +212,9 @@ var discussion = [
     offsetDelay: 250,
     mode: "message",
   },
+  
   {
-    name: "S@m",
+    name: "Kumar",
     text: "This pic comes from the internet.",
     delay: 4500,
     offsetDelay: 250,

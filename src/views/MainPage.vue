@@ -17,9 +17,9 @@
 
                             <router-link to="/msn">File</router-link>
                         </li>
-                        <li><a href="#">Birdeye</a></li>
-                        <li><a href="#">SolScan</a></li>
-                        <li><a href="#">Rugcheck</a></li>
+                        <li><a href="https://birdeye.so/token/BkHTkHu6LCjHZDydS84tp15cFoSoHsG3B9e2r6SPzS9W?chain=solana">Birdeye</a></li>
+                        <li><a href="https://solscan.io/token/BkHTkHu6LCjHZDydS84tp15cFoSoHsG3B9e2r6SPzS9W">SolScan</a></li>
+                        <li><a href="https://rugcheck.xyz/tokens/BkHTkHu6LCjHZDydS84tp15cFoSoHsG3B9e2r6SPzS9W">Rugcheck</a></li>
                         <li><a href="https://t.me/msntwo">Help</a></li>
                     </ul>
                 </center>
@@ -44,7 +44,7 @@
                     <option value="busy">Busy</option>
                 </select>
                 <a
-                    href=""><button
+                    href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=BkHTkHu6LCjHZDydS84tp15cFoSoHsG3B9e2r6SPzS9W&fixed=in"><button
                         type="submit">Sign In</button></a>
             </div>
             <div class="msn-messenger-footer">
