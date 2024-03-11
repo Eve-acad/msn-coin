@@ -11,7 +11,6 @@
                 <h1>$MSN COIN</h1>
             </div>
             <div class="msn-messenger-nav">
-                <center>
                     <ul>
                         <li>
 
@@ -23,7 +22,6 @@
                         <li><a href="https://twitter.com/msnsolana">Twitter</a></li>
                         <li><a href="https://t.me/msn_SOL ">Telegram</a></li>
                     </ul>
-                </center>
             </div>
             <div class="msn-messenger-body">
                 <div class="profile-picture">
