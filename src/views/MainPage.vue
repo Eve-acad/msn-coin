@@ -138,7 +138,6 @@ input[type="email"]::placeholder {
 
 .msn-messenger-nav li {
     display: inline;
-    margin-right: 20px;
 }
 
 .msn-messenger-nav a {
