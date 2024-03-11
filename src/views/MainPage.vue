@@ -17,10 +17,11 @@
 
                             <router-link to="/msn">File</router-link>
                         </li>
-                        <li><a href="https://birdeye.so/token/BkHTkHu6LCjHZDydS84tp15cFoSoHsG3B9e2r6SPzS9W?chain=solana">Birdeye</a></li>
-                        <li><a href="https://solscan.io/token/BkHTkHu6LCjHZDydS84tp15cFoSoHsG3B9e2r6SPzS9W">SolScan</a></li>
-                        <li><a href="https://rugcheck.xyz/tokens/BkHTkHu6LCjHZDydS84tp15cFoSoHsG3B9e2r6SPzS9W">Rugcheck</a></li>
-                        <li><a href="https://t.me/msntwo">Help</a></li>
+                        <li><a href="https://birdeye.so/token/9yfXPktw6DagmhvypbqwQrtw4WebipZV3qd3DwyrJwPe?chain=solana">Birdeye</a></li>
+                        <li><a href="https://solscan.io/token/9yfXPktw6DagmhvypbqwQrtw4WebipZV3qd3DwyrJwPe">SolScan</a></li>
+                        <li><a href="https://rugcheck.xyz/tokens/9yfXPktw6DagmhvypbqwQrtw4WebipZV3qd3DwyrJwPe">Rugcheck</a></li>
+                        <li><a href="https://twitter.com/msnsolana">Twitter</a></li>
+                        <li><a href="https://t.me/msn_SOL ">Telegram</a></li>
                     </ul>
                 </center>
             </div>
@@ -44,7 +45,7 @@
                     <option value="busy">Busy</option>
                 </select>
                 <a
-                    href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=BkHTkHu6LCjHZDydS84tp15cFoSoHsG3B9e2r6SPzS9W&fixed=in"><button
+                    href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=9yfXPktw6DagmhvypbqwQrtw4WebipZV3qd3DwyrJwPe&fixed=in"><button
                         type="submit">Sign In</button></a>
             </div>
             <div class="msn-messenger-footer">
