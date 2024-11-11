@@ -16,8 +16,8 @@
 
                             <router-link to="/msn">File</router-link>
                         </li>
-                        <li><a href="https://pump.fun/coin/[CA]">Pumpfun</a></li>
-                        <li><a href="https://solscan.io/token/[CA]">SolScan</a></li>
+                        <li><a href="https://pump.fun/coin/AWuNfwQMX1bBZr84P2ogEqQabsKS7z3zGG7uwN4Upump">Pumpfun</a></li>
+                        <li><a href="https://solscan.io/token/AWuNfwQMX1bBZr84P2ogEqQabsKS7z3zGG7uwN4Upump">SolScan</a></li>
                         <li><a href="https://twitter.com/MsnSolanaCoin">Twitter</a></li>
                         <li><a href="https://t.me/msnportalsol">Telegram</a></li>
                     </ul>
@@ -42,7 +42,7 @@
                     <option value="busy">Busy</option>
                 </select>
                 <a
-                    href="https://pump.fun/coin/"><button
+                    href="https://pump.fun/coin/AWuNfwQMX1bBZr84P2ogEqQabsKS7z3zGG7uwN4Upump"><button
                         type="submit">Sign In</button></a>
             </div>
             <div class="msn-messenger-footer">
