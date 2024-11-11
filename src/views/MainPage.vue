@@ -16,11 +16,10 @@
 
                             <router-link to="/msn">File</router-link>
                         </li>
-                        <li><a href="https://birdeye.so/token/9yfXPktw6DagmhvypbqwQrtw4WebipZV3qd3DwyrJwPe?chain=solana">Birdeye</a></li>
-                        <li><a href="https://solscan.io/token/9yfXPktw6DagmhvypbqwQrtw4WebipZV3qd3DwyrJwPe">SolScan</a></li>
-                        <li><a href="https://rugcheck.xyz/tokens/9yfXPktw6DagmhvypbqwQrtw4WebipZV3qd3DwyrJwPe">Rugcheck</a></li>
-                        <li><a href="https://twitter.com/msnsolana">Twitter</a></li>
-                        <li><a href="https://t.me/msn_SOL ">Telegram</a></li>
+                        <li><a href="https://pump.fun/coin/[CA]">Pumpfun</a></li>
+                        <li><a href="https://solscan.io/token/[CA]">SolScan</a></li>
+                        <li><a href="https://twitter.com/MsnSolanaCoin">Twitter</a></li>
+                        <li><a href="https://t.me/msnportalsol">Telegram</a></li>
                     </ul>
             </div>
             <div class="msn-messenger-body">
@@ -43,7 +42,7 @@
                     <option value="busy">Busy</option>
                 </select>
                 <a
-                    href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=9yfXPktw6DagmhvypbqwQrtw4WebipZV3qd3DwyrJwPe&fixed=in"><button
+                    href="https://pump.fun/coin/"><button
                         type="submit">Sign In</button></a>
             </div>
             <div class="msn-messenger-footer">
